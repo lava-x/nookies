@@ -10,7 +10,7 @@
     "email": "matic.zavadlal@gmail.com"
   },
   "precommit": [
-    "build"
+    "compile"
   ],
   "scripts": {
     "clean": "rimraf dist",
