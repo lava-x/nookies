@@ -9,6 +9,9 @@
     "name": "Matic Zavadlal",
     "email": "matic.zavadlal@gmail.com"
   },
+  "precommit": [
+    "build"
+  ],
   "scripts": {
     "clean": "rimraf dist",
     "compile": "tsc -d && yarn run minify",
